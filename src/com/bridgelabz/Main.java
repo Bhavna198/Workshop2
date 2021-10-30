@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.brgit statisidgelabz;
 
 public class Main {
 
